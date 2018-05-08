@@ -1,0 +1,11 @@
+c:\users\importweb\source\repos\excel2texte\excel2texte\bin\Debug\excel2texte.exe
+c:\users\importweb\source\repos\excel2texte\excel2texte\bin\Debug\excel2texte.pdb
+c:\users\importweb\source\repos\excel2texte\excel2texte\bin\Debug\ExcelDataReader.DataSet.dll
+c:\users\importweb\source\repos\excel2texte\excel2texte\bin\Debug\ExcelDataReader.dll
+c:\users\importweb\source\repos\excel2texte\excel2texte\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\importweb\source\repos\excel2texte\excel2texte\bin\Debug\ExcelDataReader.xml
+c:\users\importweb\source\repos\excel2texte\excel2texte\bin\Debug\ExcelDataReader.DataSet.xml
+c:\users\importweb\source\repos\excel2texte\excel2texte\obj\Debug\excel2texte.csproj.CoreCompileInputs.cache
+c:\users\importweb\source\repos\excel2texte\excel2texte\obj\Debug\excel2texte.exe
+c:\users\importweb\source\repos\excel2texte\excel2texte\obj\Debug\excel2texte.pdb
+C:\Users\ImportWeb\source\repos\excel2texte\excel2texte\obj\Debug\excel2texte.csprojResolveAssemblyReference.cache
